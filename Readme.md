@@ -34,22 +34,16 @@ The database consists of the following tables:
 - **photo_tags** (id, photo_id, tag_id, etc.)
 
 ## 🛠 Technologies Used
-- SQL (MySQL / PostgreSQL)
+- SQL (MySQL )
 - Database Management & Optimization
 
 ## 📜 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/instagram-database-analysis.git
+   git clone https://github.com/hars310/insta-db-project.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd instagram-database-analysis
+   cd insta-db-project
    ```
 3. Run the SQL queries using your preferred database client.
-
-## 🚀 Contributing
-Feel free to submit issues and pull requests if you would like to improve or expand the analysis.
-
-## 📄 License
-This project is licensed under the MIT License.
